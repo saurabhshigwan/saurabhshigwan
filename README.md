@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @saurabhshigwan
-- 👀 I’m interested in learning new and exciting things. 
+- 👋 Hi, This is Saurabh
+- Currently working full time as Java Dev. 
 - 📫 You can reach me by saurabh.shigwan12@gmail.com
 -  
 
